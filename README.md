@@ -1,5 +1,7 @@
 Task Management System
-by rocliff kadaji
+by ROCLIFF KADAJI
+
+
 The Task Management System is a command-line application that allows users to manage projects and tasks. 
 It supports operations for creating, deleting, listing, and finding users, projects, and tasks within a SQLite database.
 This README file describes the important files in the project and their functionalities.
